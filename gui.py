@@ -1,2 +1,2 @@
-print('Hello Owleredi0hureoui')
+print('Hello, world!')
 import main
